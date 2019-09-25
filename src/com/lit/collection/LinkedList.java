@@ -37,6 +37,7 @@ public class LinkedList {
 		list.add("dkp");
 		list.add("mww");
 		System.out.println(list.size);
+		System.out.println("Hello World");
 	}
 
 }
